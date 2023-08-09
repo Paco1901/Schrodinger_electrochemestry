@@ -1,6 +1,6 @@
 # Schrodinger_electrochemestry
 The following commands are implemented to determine the global solution of the
-Schrödinger equation for the determination of deposition and electrodeposition [7,8].
+Schrödinger equation for the determination of deposition and electrodeposition.
 Schrödinger equation
 C:\>start_chrome/unknow/www.github.com/Paco1901/Schrodinger_electrochemistry.git
 /Schrodinger.cu//kernel_global_solution
